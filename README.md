@@ -1,5 +1,7 @@
 # 🦷 CliniSmile AI — Full Project Setup Guide
 
+A comprehensive dental clinic management and patient care solution. Streamline appointments, patient records, and clinical workflows. Designed to enhance operational efficiency and improve patient experience in dental practices.
+
 ## Project Structure
 ```
 CliniSmile/
