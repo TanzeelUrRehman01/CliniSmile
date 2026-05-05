@@ -2,6 +2,16 @@
 
 A comprehensive dental clinic management and patient care solution. Streamline appointments, patient records, and clinical workflows. Designed to enhance operational efficiency and improve patient experience in dental practices.
 
+## Visulas:
+<img width="1365" height="609" alt="Dashboard" src="https://github.com/user-attachments/assets/4ed2923c-ecde-4f27-8ded-b354d5cf89ed" />
+<img width="1315" height="603" alt="login" src="https://github.com/user-attachments/assets/69109146-8b4c-4a7c-a595-8c95f785a635" />
+## Paitient
+<img width="1365" height="605" alt="patient" src="https://github.com/user-attachments/assets/d8f020fd-05d9-40d3-aea7-490005cf0ee2" />
+## Doctor
+<img width="1361" height="613" alt="dr" src="https://github.com/user-attachments/assets/fea9cad0-c40b-416e-9833-6cdd0bd84857" />
+## ChatBot
+<img width="373" height="607" alt="chatbot" src="https://github.com/user-attachments/assets/a09dc438-3230-4820-81bb-579a64c5bf32" />
+
 ## Project Structure
 ```
 CliniSmile/
